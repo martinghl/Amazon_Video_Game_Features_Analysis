@@ -4,8 +4,7 @@ This repository contains the research paper and the Python code for analyzing th
 
 ## Project Overview
 
-### Research Paper
-The research paper, titled **"The Role of Specific Features in Enhancing Player Satisfaction in Video Games"**, investigates how different game features impact player satisfaction, as reflected in customer reviews on Amazon. It explores the following:
+The project, titled **"The Role of Specific Features in Enhancing Player Satisfaction in Video Games"**, investigates how different game features impact player satisfaction, as reflected in customer reviews on Amazon. It explores the following:
 
 - **Hypotheses**:
   - H1: Specific game features (such as story depth, graphical quality, or ease of controls) are positively correlated with higher ratings.
