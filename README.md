@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ## Usage
 1.	Clone the Repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Video-Game-Features-Analysis-and-Extraction.git
+git clone https://github.com/martinghl/Video-Game-Features-Analysis-and-Extraction.git
 cd Video-Game-Features-Analysis-and-Extraction
 ```
 
